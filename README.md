@@ -1,4 +1,5 @@
-<img width="1346" height="636" alt="3page" src="https://github.com/user-attachments/assets/6cd395cb-28b4-46e4-a7ed-c6b158e2e0d5" /># UOM Web Development Course Assignment
+# UOM Web Development Assignment
+
 ## A Journey Through HTML, CSS, and JavaScript
 In the immersive realm of the UOM Web Development course assignment, I embarked on a transformative journey, sculpting digital experiences with HTML, CSS, and JavaScript. These languages became my tools of creation, allowing me to weave functionality, style, and interactivity into cohesive web solutions.
 
